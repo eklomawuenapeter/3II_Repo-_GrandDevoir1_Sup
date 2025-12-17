@@ -18,4 +18,8 @@
 
 - [9503569](https://github.com/crafto-dnk/grand_devoir_app_final)
 - [9503623](https://github.com/kadidija252-jpg/first_app)
-- 
+- [9503394](https://github.com/FatoumataSKanta/granddevoir)
+- [9503317](https://github.com/alious-S/grand_devoir_def)
+- [9503614](https://github.com/lawjz/grand_devoir_flutter)
+- [9503674](https://github.com/BakaryCoulibaly/grand_devoir_1)
+- [](https://github.com/samakemoulayelabass-star/grand_devoir_app)
